@@ -27,7 +27,7 @@ Using a time-series line graph, we can observe the top 3 DRG trends through the 
 Results:
 1. DRG001 is likely linked to urgent conditions or acute care sevices, where majority patients are discharged home. Spikes in April might correspond to higher ED admissions due to seasonal illness or other acute outbreaks. The major spike in April 2023 can be observed in inpatient care types as well, which suggest possible incentives on post-pandemic elective surgery recovery works. 
 2. DRG002 has a higher outpatient trend that indicates possible focus on managing chronic conditions or long-term care, this is also reflected with majority patients being discharged with palliative intentions. The significant drop in April 2024 suggests that it might be due to a reason that shifted the focus from DRG002 to DRG001.
-3. DRG003 may involve frequent or regular procedures, though ED presentations for this DRG were on the higher range between Nov22 and peaked in Jun23. This indicates that this group could be tied to recurring conditions or planned procedures, where patients are often transferred to rehabilitation or home after discharge.
+3. DRG003 may involve frequent or regular procedures, though ED presentations for this DRG were on the higher range between Nov22 and peaked in Jun23. This indicates that this group could be tied to recurring conditions or planned procedures, where patients are often transferred to rehabilitation or home after discharge. 
 
 Fundamentally, it is important to understand the nature of the healthcare business to connect the dots on what is causing data trends and patterns. Some examples include changes in healthcare policies, Medicare benefits expansions, addition of medical centres/clinic, improvements in diagnostic toolings, etc. 
 
